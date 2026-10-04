@@ -4,8 +4,8 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 Định dạng tham chiếu và phạm vi tính trang: [SUBMISSION.md](../docs/SUBMISSION.md).
 
 **Họ tên / MSSV:** Ngo Tuan Tung / 2A202602826
-**Repo:** K4-Track02-Day17-Data-Pipeline-Engineering
-**Commit bài nộp:** (bạn sẽ tự điền sau khi commit)
+**Repo:** [K4-Track02-Day17-Data-Pipeline-Engineering](https://github.com/tuantung26/K4-Track02-Day17-NgoTuanTung-2A202602826-DataPipelineEngineering)
+**Commit bài nộp:** done
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Antigravity IDE Agent hỗ trợ chạy code, fix lỗi theo yêu cầu của lab.
 **Nguồn tham khảo khác (nếu có):** 
 
